@@ -12,8 +12,10 @@
   </engines>
 
   <name>Google Open Source iOS Framework Plugin</name>
+  <description>Google Open Source iOS Framework Plugin</description>
 
-  <platform name="ios">
+
+    <platform name="ios">
     <framework src="src/ios/GoogleOpenSource.framework" custom="true" />
   </platform>
 </plugin>
